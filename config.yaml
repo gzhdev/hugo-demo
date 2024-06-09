@@ -67,7 +67,7 @@ params:
         avatar:
             enabled: true
             local: false
-            src: https://vip.helloimg.com/i/2024/03/18/65f82eee42db2.png
+            src: https://s2.loli.net/2023/04/01/DMhHm7Ikwpug8EW.jpg
 
     article:
         math: true
